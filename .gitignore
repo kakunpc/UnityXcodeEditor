@@ -1,0 +1,8 @@
+.vs/
+Library/
+*.sln
+*.csproj
+Assets/Rotorz.meta
+Assets/Rotorz/
+Assets/xcodeapi.meta
+Assets/xcodeapi/
